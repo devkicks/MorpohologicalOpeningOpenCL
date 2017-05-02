@@ -1,0 +1,7 @@
+file.txt
+opencv_core247.lib
+opencv_core247d.lib
+opencv_highgui247.lib
+opencv_highgui247d.lib
+opencv_imgproc247.lib
+opencv_imgproc247d.lib
